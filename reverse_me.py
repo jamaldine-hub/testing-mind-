@@ -1,6 +1,6 @@
 import pyttsx3
 import speech_recognition as sr
-# reverse me function
+# second update reverse me function
 def reverse_me():
     engine = pyttsx3.init()
     rec = sr.Recognizer()
