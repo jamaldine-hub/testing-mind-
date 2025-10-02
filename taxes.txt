@@ -1,6 +1,6 @@
-1 : make python file named getandsay.py to get info and say it (in first-update)
-2 : make another one named listenandprint.py to listen and print letters (in second-update)
-3 : make another one named loginbyaudio.py to login only with audio (in third-update)
+1 : make python file named getandsay.py to get info and say it (in getandsay)
+2 : make another one named listenandprint.py to listen and print letters (in listenandprint)
+3 : make another one named loginbyaudio.py to login only with audio (in loginbyaudio)
 
 4 : make new branch named first-branch to make all this in one singel file named allfunc.py and take rid of the previece files 
 5 : merge all this branch to the main
